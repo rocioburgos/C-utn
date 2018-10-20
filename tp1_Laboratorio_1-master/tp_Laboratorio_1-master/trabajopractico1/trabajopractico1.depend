@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1490904766 source:c:\users\rocio\desktop\trabajo practico1\trabajopractico1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"miLibreria.h"
+
+1490904779 source:c:\users\rocio\desktop\trabajo practico1\trabajopractico1\milibreria.c
+	<stdio.h>
+
+1490824221 c:\users\rocio\desktop\trabajo practico1\trabajopractico1\milibreria.h
+
+1491359371 source:c:\users\rocio\desktop\casi terminado30-3trabajo practico1\trabajopractico1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"miLibreria.h"
+
+1491359344 c:\users\rocio\desktop\casi terminado30-3trabajo practico1\trabajopractico1\milibreria.h
+
+1491359490 source:c:\users\rocio\desktop\casi terminado30-3trabajo practico1\trabajopractico1\milibreria.c
+	<stdio.h>
+
+1491517448 source:c:\users\rocio\desktop\finaaal trabajo practico1\trabajopractico1\milibreria.c
+	<stdio.h>
+
+1491517259 source:c:\users\rocio\desktop\finaaal trabajo practico1\trabajopractico1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"miLibreria.h"
+
+1491359533 c:\users\rocio\desktop\finaaal trabajo practico1\trabajopractico1\milibreria.h
+

@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1496067562 source:e:\tp_3_cascara-20170529t134733z-001\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+	<ctype.h>
+
+1496067228 e:\tp_3_cascara-20170529t134733z-001\tp_3_cascara\funciones.h
+
+1496067680 source:e:\tp_3_cascara-20170529t134733z-001\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+	<ctype.h>
+
+1496081970 source:j:\tp_3_cascara-20170529t134733z-001\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+	<ctype.h>
+
+1496082086 j:\tp_3_cascara-20170529t134733z-001\tp_3_cascara\funciones.h
+
+1496098380 source:j:\tp_3_cascara-20170529t134733z-001\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+	<ctype.h>
+
+1496431205 source:c:\users\rocio\documents\tp 3 al 31-5\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+	<ctype.h>
+
+1496431042 c:\users\rocio\documents\tp 3 al 31-5\funciones.h
+
+1496431342 source:c:\users\rocio\documents\tp 3 al 31-5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+	<ctype.h>
+

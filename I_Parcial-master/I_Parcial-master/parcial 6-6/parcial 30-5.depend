@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1496629324 source:j:\parcial 30-5\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"lib.h"
+
+1496629324 j:\parcial 30-5\lib.h
+	<stdio.h>
+	<stdlib.h>
+
+1496630174 source:j:\parcial 30-5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"lib.h"
+
+1496804222 source:j:\parcial 6-6\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"lib.h"
+
+1496803486 j:\parcial 6-6\lib.h
+	<stdio.h>
+	<stdlib.h>
+
+1496802234 source:j:\parcial 6-6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"lib.h"
+
+1496804222 source:l:\parcial listo\parcial 6-6\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"lib.h"
+
+1496803486 l:\parcial listo\parcial 6-6\lib.h
+	<stdio.h>
+	<stdlib.h>
+
+1496802234 source:l:\parcial listo\parcial 6-6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"lib.h"
+
+1497445266 source:e:\parcial listo\parcial 6-6\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"lib.h"
+
+1497445520 e:\parcial listo\parcial 6-6\lib.h
+	<stdio.h>
+	<stdlib.h>
+
+1497445170 source:e:\parcial listo\parcial 6-6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"lib.h"
+

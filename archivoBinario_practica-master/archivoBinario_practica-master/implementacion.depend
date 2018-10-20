@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1497793622 source:l:\arraylist & implementaciones\implementacion(arraylist) (productos)\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+
+1497793288 l:\arraylist & implementaciones\implementacion(arraylist) (productos)\arraylist.h
+
+1498054766 source:l:\arraylist & implementaciones\implementacion(arraylist) (productos)\productos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+	"productos.h"
+
+1498054766 l:\arraylist & implementaciones\implementacion(arraylist) (productos)\productos.h
+
+1498076860 source:l:\arraylist & implementaciones\implementacion(arraylist) (productos)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+	"productos.h"
+
+1497793622 source:l:\arraylist & implementaciones\implementacion productos(terminado)\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+
+1497793288 l:\arraylist & implementaciones\implementacion productos(terminado)\arraylist.h
+
+1498054766 source:l:\arraylist & implementaciones\implementacion productos(terminado)\productos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+	"productos.h"
+
+1498054766 l:\arraylist & implementaciones\implementacion productos(terminado)\productos.h
+
+1498529004 source:l:\arraylist & implementaciones\implementacion productos(terminado)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+	"productos.h"
+

@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1497883694 source:e:\arraylist & implementaciones\implementacion tramites\tramites\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+
+1497874334 e:\arraylist & implementaciones\implementacion tramites\tramites\arraylist.h
+
+1497881618 source:e:\arraylist & implementaciones\implementacion tramites\tramites\tramite.c
+	<stdio.h>
+	<stdlib.h>
+	"arrayList.h"
+	"tramite.h"
+
+1497885306 source:e:\arraylist & implementaciones\implementacion tramites\tramites\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arrayList.h"
+	"tramite.h"
+
+1497884864 e:\arraylist & implementaciones\implementacion tramites\tramites\tramite.h
+
+1498521212 source:l:\arraylist & implementaciones\implementacion tramites(terminado)\tramites\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+
+1497874334 l:\arraylist & implementaciones\implementacion tramites(terminado)\tramites\arraylist.h
+
+1498521292 source:l:\arraylist & implementaciones\implementacion tramites(terminado)\tramites\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arrayList.h"
+	"tramite.h"
+
+1497884864 l:\arraylist & implementaciones\implementacion tramites(terminado)\tramites\tramite.h
+
+1497881618 source:l:\arraylist & implementaciones\implementacion tramites(terminado)\tramites\tramite.c
+	<stdio.h>
+	<stdlib.h>
+	"arrayList.h"
+	"tramite.h"
+

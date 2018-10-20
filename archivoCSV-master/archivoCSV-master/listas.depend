@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1498243284 source:c:\users\rocio\desktop\listas\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+
+1498243284 c:\users\rocio\desktop\listas\arraylist.h
+
+1498243284 source:c:\users\rocio\desktop\listas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+
+1498251594 source:l:\arraylist & implementaciones\parcial2 listas negras\listas2\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+
+1498243286 l:\arraylist & implementaciones\parcial2 listas negras\listas2\arraylist.h
+
+1498250474 source:l:\arraylist & implementaciones\parcial2 listas negras\listas2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+

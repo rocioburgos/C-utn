@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1498526218 source:c:\users\rocio\desktop\nueva carpeta (2)\prueba\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+
+1498524089 c:\users\rocio\desktop\nueva carpeta (2)\prueba\arraylist.h
+
+1498526177 source:c:\users\rocio\desktop\nueva carpeta (2)\prueba\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arrayList.h"
+
+1498603640 source:l:\arraylist & implementaciones\prueba(push)\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+
+1498524090 l:\arraylist & implementaciones\prueba(push)\arraylist.h
+
+1498607044 source:l:\arraylist & implementaciones\prueba(push)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arrayList.h"
+

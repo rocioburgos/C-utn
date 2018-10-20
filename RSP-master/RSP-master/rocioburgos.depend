@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1500077746 source:c:\users\rocio\desktop\recuperatorio 2do parcial resuelto\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+
+1499872042 c:\users\rocio\desktop\recuperatorio 2do parcial resuelto\arraylist.h
+
+1500134084 source:c:\users\rocio\desktop\recuperatorio 2do parcial resuelto\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1500134084 c:\users\rocio\desktop\recuperatorio 2do parcial resuelto\utn.h
+	"arrayList.h"
+
+1500134083 source:c:\users\rocio\desktop\recuperatorio 2do parcial resuelto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayList.h"
+	"utn.h"
+

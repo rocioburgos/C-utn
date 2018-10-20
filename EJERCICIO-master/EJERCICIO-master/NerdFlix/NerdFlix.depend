@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1493214184 source:c:\users\alumno\desktop\nerdflix\funciones.c
+
+1493213218 source:c:\users\alumno\desktop\nerdflix\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1493822834 source:e:\nerdflix\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+
+1493821146 source:e:\nerdflix\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+
+1493823240 e:\nerdflix\funciones.h
+
